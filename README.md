@@ -52,7 +52,7 @@ Contributions are welcome! Please create an issue or submit a pull request.
   <img src='https://github.com/user-attachments/assets/84ae74ed-fc74-49e1-9d38-b13bc40502df' width=250>
   <img src='https://github.com/user-attachments/assets/460fe497-d597-4208-ad27-153b0d958fc1' width=250>
   <img src='https://github.com/user-attachments/assets/adfca55f-869b-4860-ab76-826bc5b87ecb' width=250>
-  <img src='https://github.com/user-attachments/assets/adfca55f-869b-4860-ab76-826bc5b87ecb' width=250>
+  <img src='https://github.com/user-attachments/assets/b241664f-fe71-462c-a9cb-aa02102f8148' width=250>
   <img src='https://github.com/user-attachments/assets/9083608a-f241-499c-8664-d045d56ae273' width=250>
 </p>
 
