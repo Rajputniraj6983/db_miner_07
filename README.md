@@ -42,9 +42,6 @@ quotes_app/
 - Tap the "Save" button to save a quote to the database.
 - Go to the "Favorites" screen to view all saved quotes.
 
-## Contributing
-
-Contributions are welcome! Please create an issue or submit a pull request.
 
 ### Screenshorts
 
@@ -58,3 +55,9 @@ Contributions are welcome! Please create an issue or submit a pull request.
 
 
 ### video
+
+
+https://github.com/user-attachments/assets/b98375d1-81cc-4fe2-97b2-45b77146c62b
+
+
+
